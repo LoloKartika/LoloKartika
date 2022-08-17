@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 ![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoloKartika" alt="LoloKartika" /> </p>
-- 🕵 Associate Software Engineer at Infosys Ltd
+- 🕵 Senior Associate Consultant at Infosys Ltd
 - 👨‍💻 My Profile is available [here](https://www.linkedin.com/in/kartika-kalantri/)
 - 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
 - 📫 Reach me at **kalantrikartika@gmail.com**
