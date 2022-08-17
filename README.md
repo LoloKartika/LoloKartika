@@ -5,7 +5,7 @@
 - 🕵 Senior Associate Consultant at Infosys Ltd
 - 👨‍💻 My Profile is available [here](https://www.linkedin.com/in/kartika-kalantri/)
 - 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
-- 📫 Reach me at **kalantrikartika@gmail.com**
+- 📫 Reach me at **kartikakalantri@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
